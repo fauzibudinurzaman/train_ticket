@@ -1,0 +1,27 @@
+**Log on to codeastro.com for more projects!***
+
+**Database Name : orrsphp**
+
+**Developed by Martin Mbithi Nzilani**
+
+**Recommended PHP Version: 5.6, 7.4, 8.1**
+
+
+**Admin Login Details**
+
+Email   : admin@mail.com
+Password: admin@mail.com
+
+
+**Employee Login**
+
+email : employee@mail.com
+password : employee@mail.com
+
+email : employee2@mail.com
+password : employee2@mail.com
+
+**login penumpang**
+
+email : diva@mail.com
+password : diva@mail.com
